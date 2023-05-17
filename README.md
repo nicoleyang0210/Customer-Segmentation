@@ -1,7 +1,5 @@
 # Python Machine Learning
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 Welcome to the Python Machine Learning repository! This repository contains a collection of Python scripts, notebooks, and resources related to machine learning and data analysis using Python.
 
 ## Table of Contents
