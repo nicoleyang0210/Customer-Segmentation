@@ -1,6 +1,9 @@
-# Python Machine Learning
+# Customer Segmentation
 
-Welcome to the Python Machine Learning repository! This repository contains a collection of Python scripts, notebooks, and resources related to machine learning and data analysis using Python.
+In this project, we are going to analyze the Credit Card dataset and develop a customer segmentation to define marketing strategy.
+
+Data resource:
+https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
 ## Table of Contents
 
